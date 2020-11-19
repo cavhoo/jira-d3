@@ -1,1 +1,1 @@
-const read = () => 'Stuff'
+const read = () => 'Stuff';
