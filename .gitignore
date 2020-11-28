@@ -11,5 +11,4 @@ yarn-error.log*
 *.tsbuildinfo
 .npm
 .eslintcache
-lib
 dist
